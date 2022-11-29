@@ -23,3 +23,4 @@ This repository created for Strategy Design pattern example.
 
 If you have any feedback, please reach out to us at mr.halilugur@gmail.com
 
+https://medium.com/@halilugur/strategy-pattern-with-spring-boot-4704218c65ed
